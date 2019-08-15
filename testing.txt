@@ -1,5 +1,7 @@
 !!!Hello World! This is a git repository.
 
+BANG EXPLOSION
+
 Testing testing 123.
 
 
